@@ -4,7 +4,7 @@
 
 # Como Ejecutar
   * Clonar el proyecto,
-  * Ejecutar el Script llamado   dbRigo
+  * Ejecutar el Script
 
   * Abrir algarTestSolucion
   * Ejecutar la aplicacion.
